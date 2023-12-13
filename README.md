@@ -1,10 +1,10 @@
-# Interpretable Property Prediction
+# Topographic Pooling
 
 This repo contains the code and data for the following paper:
 
-```
-TopoPool: An Adaptive Graph Pooling Layer for Extracting Molecular and Protein Substructures. Thieme, et al., NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3 2023)
-```
+
+- TopoPool: An Adaptive Graph Pooling Layer for Extracting Molecular and Protein Substructures. Thieme, et al., NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3 2023)
+
 
 ## Setup
 
@@ -23,7 +23,7 @@ $: python benchmarker.py
 ```
 
 
-## Contour (or Topographic) Pooling
+## Topographic Pooling at a glance
 
 This is a max-*region* pooling operation.
 
