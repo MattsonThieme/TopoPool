@@ -3,7 +3,7 @@
 This repo contains the code and data for the following paper:
 
 
-- TopoPool: An Adaptive Graph Pooling Layer for Extracting Molecular and Protein Substructures. Thieme, et al., NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3 2023)
+- TopoPool: An Adaptive Graph Pooling Layer for Extracting Molecular and Protein Substructures. Thieme, et al., NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3 2023) [[PDF](./NeurIPS_AI4D3_TopoPool.pdf)]
 
 
 ## Setup
